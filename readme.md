@@ -38,7 +38,6 @@ The app combines a conversational prompt pipeline with Streamlit’s layout feat
 |------------|-------------|
 | `Streamlit` | Handles the web interface, sidebar controls, and real-time updates. |
 | `LangChain` | Manages the message template, model connection, and output parsing. |
-| `dotenv` | Loads environment variables from `.env` (optional, for local setup). |
 | `OpenAI` | Provides the text generation models for answering questions. |
 
 ---
